@@ -1,0 +1,4 @@
+files:
+  - 
+    source: test.md
+    translation: '%original_path%%two_letters_code%_%original_file_name%.md'
